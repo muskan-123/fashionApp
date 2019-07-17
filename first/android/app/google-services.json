@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "677415044925",
+    "firebase_url": "https://myapp-8897c.firebaseio.com",
+    "project_id": "myapp-8897c",
+    "storage_bucket": "myapp-8897c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677415044925:android:b837d31869377a83",
+        "android_client_info": {
+          "package_name": "com.first"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIfXeYaI0M8Sonn8eQptSGywTbtvobak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
